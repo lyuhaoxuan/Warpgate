@@ -1,0 +1,6 @@
+framework module Pods_Warpgate_Tests {
+  umbrella header "Pods-Warpgate_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Warpgate {
+  umbrella header "Warpgate-umbrella.h"
+
+  export *
+  module * { export * }
+}
