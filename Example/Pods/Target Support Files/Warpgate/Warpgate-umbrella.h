@@ -10,6 +10,10 @@
 #endif
 #endif
 
+#import "Warpgate+Router.h"
+#import "Warpgate.h"
+#import "WarpgateHeader.h"
+#import "WarpgateProtocol.h"
 
 FOUNDATION_EXPORT double WarpgateVersionNumber;
 FOUNDATION_EXPORT const unsigned char WarpgateVersionString[];

@@ -1,9 +1,9 @@
 {
   "name": "Warpgate",
-  "version": "0.1.0",
-  "summary": "A short description of Warpgate.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/吕浩轩/Warpgate",
+  "version": "0.1.2",
+  "summary": "Warpgate 空间之门",
+  "description": "TODO: 作用于 APP 的路由相关。",
+  "homepage": "https://github.com/confidenthaoxuan/Warpgate",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,12 @@
     "吕浩轩": "lyuhaoxuan@aliyun.com"
   },
   "source": {
-    "git": "https://github.com/吕浩轩/Warpgate.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/confidenthaoxuan/Warpgate.git",
+    "tag": "0.1.2"
   },
   "platforms": {
-    "ios": "9.0"
+    "ios": "9.0",
+    "osx": "10.11"
   },
   "source_files": "Warpgate/Classes/**/*"
 }

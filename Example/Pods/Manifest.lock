@@ -10,7 +10,7 @@ PODS:
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
   - Specta (1.0.7)
-  - Warpgate (0.1.0)
+  - Warpgate (0.1.2)
 
 DEPENDENCIES:
   - Expecta
@@ -35,8 +35,8 @@ SPEC CHECKSUMS:
   "Expecta+Snapshots": dcff217eef506dabd6dfdc7864ea2da321fafbb8
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
-  Warpgate: 336c0b0373ffa9198ac3402ca69080c03f7eb48e
+  Warpgate: 36b7140c85239c7d1e3e5caf2e17caff04f725a8
 
 PODFILE CHECKSUM: 718d4e658d5080044de2bc234d2a8783aa446530
 
-COCOAPODS: 1.10.0
+COCOAPODS: 1.10.1
